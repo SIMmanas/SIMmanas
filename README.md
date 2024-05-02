@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manas
 - 👀 I’m interested in development...
 - 🌱 I’m currently learning GoLang...
-- 💞️ I’m looking to collaborate on almost everything related to Development as long as I get it... :D
+- 💞️ I’m looking to collaborate on almost everything related to Development as long as it excites me... :D
 - 📫 How to reach me ...manas.dubey@simnovus.com
 
 <!---
